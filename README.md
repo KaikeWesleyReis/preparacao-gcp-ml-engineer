@@ -29,12 +29,16 @@ Nos links abaixo você encontrará todas as questões disponíveis até então n
 
 -[Questões Avulso](http://simp.ly/p/1C9J7v)
 
-## Questões Recomendadas
+## Questões adicionais + Recomendações
 Nesta parte, você irá encontrar uma série de questões e temas recomendados pelos antigos participantes através de texto de Medium que foram comentados e destrinchados em novos questionamentos:
+
+-[Questões de exemplo retiradas do Webinar de introdução ao exame](http://simp.ly/p/9cZdKK)
 
 -[Questões Recomendadas](http://simp.ly/p/dwHjdz)
 
 -[Recomendações de temas extras de estudo](http://simp.ly/p/yZCTlV)
+
+-[Questões do Sample Questions da Google com gabarito](http://simp.ly/p/xQ6DGH)
 
 ## Dicas Gerais do exame
 ...
