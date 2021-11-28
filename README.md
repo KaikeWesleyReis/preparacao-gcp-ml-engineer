@@ -11,7 +11,7 @@ Repositório com materiais de apoio para o sucesso na prova de certificação Pr
 
 O site [examsTopics](https://www.examtopics.com/exams/google/professional-machine-learning-engineer/) possui uma base de dados extensa de questões do exame. Neste site, as questões possuem gabaritos (na maioria das vezes duvidosos) e uma vasta discussão entre os usuários sobre qual é alternativa correta e o motivo para tal. 
 
-Nos links abaixo você irá encontrar todas as questões disponíveis até então neste site (no momento foram 60 questões) comentadas por mim! Os comentários trazidos por mim resume bastante o que é discutir pelos usuários. Abaixo, segue o material disponível:
+Nos links abaixo você encontrará todas as questões disponíveis até então neste site (no momento foram 60 questões) comentadas por mim! Os comentários trazidos resumem bastante o que é discutir pelos usuários. Abaixo, segue o material disponível:
 
 -[Questões 01 até 10](http://simp.ly/p/s7g6Cb)
 
