@@ -27,7 +27,7 @@ Nos links abaixo você encontrará todas as questões disponíveis até então n
 
 -[Questões 61 até 63](http://simp.ly/p/GlgDtR)
 
--[Questões Avulso](http://simp.ly/p/1C9J7v)
+-[Questões Avulso](http://simp.ly/p/8Jd4N7)
 
 ## Questões adicionais + Recomendações
 Nesta parte, você irá encontrar uma série de questões e temas recomendados pelos antigos participantes através de texto de Medium que foram comentados e destrinchados em novos questionamentos:
